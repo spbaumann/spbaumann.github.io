@@ -6,6 +6,20 @@ body {
   line-height: 1.6;
 }
 
+/* Navigation */
+nav {
+  background: white;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+nav a {
+  margin: 0 15px;
+  font-weight: 500;
+}
+
+
 /* Header */
 
 header {
