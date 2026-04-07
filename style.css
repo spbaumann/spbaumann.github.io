@@ -91,6 +91,18 @@ h2 {
   margin: 5px 0 15px 0;
 }
 
+/* Profile Photo */
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  margin: 20px auto;
+  display: block;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
 /* Lists */
 
 ul {
