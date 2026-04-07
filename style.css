@@ -64,6 +64,32 @@ h2 {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
+.job-card {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  border-left: 4px solid #2f5d50;
+}
+
+.job-card h3 {
+  margin-top: 0;
+  color: #2c2c2c;
+}
+
+.company {
+  color: #3c8a72;
+  font-weight: 600;
+  margin: 5px 0;
+}
+
+.date {
+  color: #888;
+  font-size: 14px;
+  margin: 5px 0 15px 0;
+}
+
 /* Lists */
 
 ul {
